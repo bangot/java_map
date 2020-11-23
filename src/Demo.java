@@ -8,6 +8,6 @@ public class Demo {
         bang.put("b",27);
         bang.put("c",25);
         bang.put("d",28);
-//        Set<String>keys=
+        Set<String>keys= "a";
     }
 }
